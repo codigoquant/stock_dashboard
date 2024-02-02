@@ -84,5 +84,5 @@ urllib3==2.1.0
 validators==0.22.0
 watchdog==3.0.0
 webencodings==0.5.1
-yfinance==0.2.36
+yfinance
 zipp==3.17.0
